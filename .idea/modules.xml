@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../client-ui/demo.iml" filepath="$PROJECT_DIR$/../client-ui/demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/mcommerce-master/microservice-commandes/mcommandes.iml" filepath="$PROJECT_DIR$/mcommerce-master/microservice-commandes/mcommandes.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/mcommerce-master.iml" filepath="$PROJECT_DIR$/.idea/mcommerce-master.iml" />
       <module fileurl="file://$PROJECT_DIR$/mcommerce-master/microservice-paiement/mpaiement.iml" filepath="$PROJECT_DIR$/mcommerce-master/microservice-paiement/mpaiement.iml" />
