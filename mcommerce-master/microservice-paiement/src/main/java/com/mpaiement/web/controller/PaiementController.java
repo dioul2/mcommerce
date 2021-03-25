@@ -15,6 +15,7 @@ public class PaiementController {
     @Autowired
     PaiementDao paiementDao;
 
+
     @PostMapping(value = "/paiement")
     public ResponseEntity<Paiement>  payerUneCommande(@RequestBody Paiement paiement){
 
